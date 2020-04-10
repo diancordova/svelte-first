@@ -13,7 +13,7 @@ cd svelte-app
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 
-## Get started
+## Get started  
 
 Install the dependencies...
 
